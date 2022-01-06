@@ -26,6 +26,9 @@ global style
     --inner-shadow-0: inset 0 0 0 #d0d0d0, inset 0 0 0 #f8f8f8;
 }
 
+.text-success{
+color:green;
+}
 body.dark {
     --bg-black-900: #ffffff;
     --bg-black-100: #353535;
